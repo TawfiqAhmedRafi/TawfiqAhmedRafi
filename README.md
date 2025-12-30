@@ -83,7 +83,7 @@
   <br />
   <h3>🤝 Let's Connect & Build Something Great</h3>
   <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
-  **Phone:** +8801766374078
+ 
   <a href="https://www.linkedin.com/in/tawfiq-ahmed-rafi-b9668a1ba/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -98,7 +98,11 @@
   </a>
   <a href="tel:+8801766374078">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white">
-</a>
+  </a>
+
+  <!-- Added phone as plain text -->
+  <p><b>Phone:</b> +8801766374078</p>
+
   <br /><br />
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes">
@@ -107,3 +111,4 @@
     <sub>Designed with precision by <b>Tawfiq Ahmed Rafi</b> | © 2025</sub>
   </p>
 </div>
+
