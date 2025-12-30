@@ -49,10 +49,20 @@
 
 ### 🚀 Featured Projects
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TawfiqAhmedRafi&repo=TravelEase-Client&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TawfiqAhmedRafi&repo=ZapShift-Client&theme=tokyonight" />
+ <a href="https://github.com/TawfiqAhmedRafi/eTuitionBD-client" title="eTuitionBD Client">
+    <img src="https://raw.githubusercontent.com/TawfiqAhmedRafi/eTuitionBD-client/main/src/assets/logo.png" alt="eTuitionBD Client" width="140" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TawfiqAhmedRafi/ZapShift-Client" title="ZapShift Client">
+    <img src="https://raw.githubusercontent.com/TawfiqAhmedRafi/ZapShift-Client/main/src/assets/logo.png" alt="ZapShift Client" width="140" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TawfiqAhmedRafi/TravelEase-Client" title="TravelEase Client">
+    <img src="https://raw.githubusercontent.com/TawfiqAhmedRafi/TravelEase-Client/main/src/assets/logo.png" alt="TravelEase Client" width="140" />
+  </a>
 </p>
+
+
 
 ---
 
