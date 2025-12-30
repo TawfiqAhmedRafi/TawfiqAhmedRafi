@@ -54,7 +54,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/TawfiqAhmedRafi/ZapShift-Client" title="ZapShift Client">
-    <img src="https://raw.githubusercontent.com/TawfiqAhmedRafi/ZapShift-Client/main/src/assets/logo.png" alt="ZapShift Client" width="140" />
+    <img src="https://raw.githubusercontent.com/TawfiqAhmedRafi/ZapShift-Client/main/src/assets/logo.png" alt="ZapShift Client" width="140"  height="50%" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/TawfiqAhmedRafi/TravelEase-Client" title="TravelEase Client">
