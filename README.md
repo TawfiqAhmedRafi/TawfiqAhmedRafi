@@ -22,10 +22,10 @@
     </td>
     <td width="50%" valign="top">
       <h3>🌱 Currently Learning</h3>
-      <p align="center">
-        ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-        ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-      </p>
+      <div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+</div>
     </td>
   </tr>
 </table>
@@ -49,6 +49,7 @@
 
 ### 🚀 Featured Projects
 <p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TawfiqAhmedRafi&repo=TravelEase-Client&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TawfiqAhmedRafi&repo=ZapShift-Client&theme=tokyonight" />
 </p>
@@ -61,9 +62,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.io/?user=TawfiqAhmedRafi&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TawfiqAhmedRafi&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 <br />
