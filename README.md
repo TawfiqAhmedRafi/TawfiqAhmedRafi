@@ -49,17 +49,18 @@
 
 ### 🚀 Featured Projects
 <p align="center">
- <a href="https://github.com/TawfiqAhmedRafi/eTuitionBD-client" title="eTuitionBD Client">
-    <img src="https://raw.githubusercontent.com/TawfiqAhmedRafi/eTuitionBD-client/main/src/assets/logo.png" alt="eTuitionBD Client" width="140" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/TawfiqAhmedRafi/ZapShift-Client" title="ZapShift Client">
-    <img src="https://raw.githubusercontent.com/TawfiqAhmedRafi/ZapShift-Client/main/src/assets/logo.png" alt="ZapShift Client" width="140"  height="50%" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/TawfiqAhmedRafi/TravelEase-Client" title="TravelEase Client">
-    <img src="https://raw.githubusercontent.com/TawfiqAhmedRafi/TravelEase-Client/main/src/assets/logo.png" alt="TravelEase Client" width="140" />
-  </a>
+<a href="https://github.com/TawfiqAhmedRafi/eTuitionBD-client" title="eTuitionBD Client">
+  <img src="https://raw.githubusercontent.com/TawfiqAhmedRafi/eTuitionBD-client/main/src/assets/logo.png" alt="eTuitionBD Client" height="80" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/TawfiqAhmedRafi/ZapShift-Client" title="ZapShift Client">
+  <img src="https://raw.githubusercontent.com/TawfiqAhmedRafi/ZapShift-Client/main/src/assets/logo.png" alt="ZapShift Client" height="80" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/TawfiqAhmedRafi/TravelEase-Client" title="TravelEase Client">
+  <img src="https://raw.githubusercontent.com/TawfiqAhmedRafi/TravelEase-Client/main/src/assets/logo.png" alt="TravelEase Client" height="80" />
+</a>
+
 </p>
 
 
