@@ -83,7 +83,7 @@
   <br />
   <h3>🤝 Let's Connect & Build Something Great</h3>
   <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
-  
+  **Phone:** +8801766374078
   <a href="https://www.linkedin.com/in/tawfiq-ahmed-rafi-b9668a1ba/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
