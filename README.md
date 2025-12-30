@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=250&section=header&text=Tawfiq%20Ahmed%20Rafi&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=250&section=header&text=Tawfiq%20Ahmed%20Rafi&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%">
 </p>
 
 <div align="center">
   <h1>Hi 👋, I'm Tawfiq Ahmed Rafi</h1>
   <p><strong>Frontend Developer | ReactJS | NodeJS | JavaScript | C/C++</strong></p>
-
 </div>
 
 ---
@@ -24,9 +23,8 @@
     <td width="50%" valign="top">
       <h3>🌱 Currently Learning</h3>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+        ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+        ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
       </p>
     </td>
   </tr>
@@ -36,14 +34,14 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 </p>
 
 ---
@@ -62,11 +60,11 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TawfiqAhmedRafi&theme=react-dark&hide_border=true&area=true" width="100%" />
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TawfiqAhmedRafi&theme=react-dark&hide_border=true&area=true)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TawfiqAhmedRafi&theme=tokyonight&hide_border=true" />
+  ![GitHub Streak](https://github-readme-streak-stats.demolab.io/?user=TawfiqAhmedRafi&theme=tokyonight&hide_border=true)
 </p>
 
 ---
@@ -78,7 +76,7 @@
   <h3>🤝 Let's Connect & Build Something Great</h3>
   <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
   
-<a href="https://www.linkedin.com/in/tawfiq-ahmed-rafi-b9668a1ba/">
+  <a href="https://www.linkedin.com/in/tawfiq-ahmed-rafi-b9668a1ba/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rafi70722@gmail.com">
@@ -93,7 +91,7 @@
   
   <br /><br />
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
+  ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
   <p align="center">
     <sub>Designed with precision by <b>Tawfiq Ahmed Rafi</b> | © 2025</sub>
