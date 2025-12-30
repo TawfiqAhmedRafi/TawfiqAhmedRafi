@@ -22,7 +22,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🌱 Currently Learning</h3>
-      <p>
+      <p align="center">
         ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
         ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
       </p>
@@ -33,38 +33,35 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
+
 
 ---
 
 ### 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/TawfiqAhmedRafi/eTuitionBD-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TawfiqAhmedRafi&repo=TravelEase-Client&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/TawfiqAhmedRafi/ZapShift-Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TawfiqAhmedRafi&repo=ZapShift-Client&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TawfiqAhmedRafi&repo=TravelEase-Client&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TawfiqAhmedRafi&repo=ZapShift-Client&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📊 GitHub Activity
 <p align="center">
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TawfiqAhmedRafi&theme=react-dark&hide_border=true&area=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TawfiqAhmedRafi&theme=react-dark&hide_border=true&area=true" width="100%">
 </p>
 
 <p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.io/?user=TawfiqAhmedRafi&theme=tokyonight&hide_border=true)
+  <img src="https://streak-stats.demolab.io/?user=TawfiqAhmedRafi&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -77,21 +74,21 @@
   <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
   
   <a href="https://www.linkedin.com/in/tawfiq-ahmed-rafi-b9668a1ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:rafi70722@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://x.com/TawfiqRafi990">
-    <img src="https://img.shields.io/badge/X_Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X_Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white">
   </a>
   <a href="https://www.facebook.com/tawfiqahmed.rafi.50">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
   
   <br /><br />
   
-  ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes">
   
   <p align="center">
     <sub>Designed with precision by <b>Tawfiq Ahmed Rafi</b> | © 2025</sub>
